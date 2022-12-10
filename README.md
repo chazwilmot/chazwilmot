@@ -2,6 +2,7 @@
 - 👀 I’m interested in Machine Learning, AI, and Space
 - 🌱 I’m currently learning @ the University of Iowa
 - 💞️ I’m looking to collaborate on Machine Learning and AI projects
+- 👨‍💻 I'm proficient in Java, C++, and Python
 - 📫 How to reach me chazwilmot@gmail.com
 
 <!---
