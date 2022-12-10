@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Charles Wilmot<br>🛰️ I’m interested in Machine Learning, AI, and Space<br>🌱 I’m currently learning @ the University of Iowa<br>👀 I’m looking to collaborate on Machine Learning and AI projects<br>👨‍💻 I'm proficient in Java, C++, and Python<br>📫 How to reach me chazwilmot@gmail.com
+👋 Hi, I’m Charles Wilmot<br>🛰️ I’m interested in Machine Learning, AI, and Space<br>🌱 I’m currently studying @ the University of Iowa<br>👀 I’m looking to collaborate on Machine Learning and AI projects<br>👨‍💻 I'm proficient in Java, C++, Python, and Verilog<br>📫 How to reach me chazwilmot@gmail.com
 
 
 ## 🌐 Socials:
