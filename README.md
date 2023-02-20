@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Charles Wilmot<br>🛰️ I’m interested in Machine Learning, AI, and Space<br>🌱 I’m currently studying computer science and engineering @ the University of Iowa<br>👀 I’m looking to collaborate on Machine Learning and AI projects<br>👨‍💻 I'm proficient in Java, C++, and Python<br>📫 How to reach me chazwilmot@gmail.com<br> 🖧 [Personal Website](https://chazwilmot.github.io)<br>
+👋 Hi, I’m Charles Wilmot<br>🛰️ I’m interested in Machine Learning, AI, and Space<br>🌱 I’m currently studying computer science and engineering @ the University of Iowa<br>👀 I’m looking to collaborate on Machine Learning and AI projects<br>👨‍💻 I'm proficient in Java, C++, and Python<br>📫 How to reach me chazwilmot@gmail.com<br> 🖧 [Personal Website](https://chazwilmot.github.io) (Work in progress...)<br>
 <br>![Profile views](https://gpvc.arturio.dev/teckenrod)  <img src="https://img.shields.io/github/followers/teckenrod?label=Followers" style=" float:left, margin-right:10px" />
 
 # 💻 Tech Stack:
