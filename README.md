@@ -22,7 +22,6 @@
 
 ### Currently Learning
 
-
 ## A few Interests and Hobies
 * Volleyball
 * Real Estate
