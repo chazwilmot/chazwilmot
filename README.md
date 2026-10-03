@@ -37,10 +37,10 @@ I build at the intersection of **AI/ML, systems engineering, and space**: models
 **Tools:** Git · Linux · MATLAB
  
 ### Education
-D.Eng. Systems Engineering, George Washington University (in progress)
-Sc.M. Technology Leadership, Brown
-M.Eng. Systems Engineering, UVA
-B.S.E. Computer Science & Engineering, Iowa
+D.Eng. Systems Engineering, George Washington University (in progress) <br>
+Sc.M. Technology Leadership, Brown <br>
+M.Eng. Systems Engineering, UVA <br>
+B.S.E. Computer Science & Engineering, Iowa <br>
  
 ### Elsewhere
 [LinkedIn](https://www.linkedin.com/in/charles-wilmot-ii/) · [Portfolio](https://chazwilmot.github.io) · chazwilmot@gmail.com
