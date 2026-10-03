@@ -1,15 +1,18 @@
 <div align="center">
-Charles Wilmot II
-
-AI Lead Engineer · U.S. Space Force, Space Systems Command<br> D.Eng. Student, Systems Engineering · George Washington University
-
-<a href="https://www.linkedin.com/in/charles-wilmot-ii/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://chazwilmot.github.io"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a> <a href="mailto:chazwilmot@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-I build at the intersection of AI/ML, systems engineering, and space: models that hold up in the real world and architectures that scale.
-
+# Charles Wilmot II
+ 
+**AI Lead Engineer · U.S. Space Force, Space Systems Command**<br>
+D.Eng. Student, Systems Engineering · George Washington University
+ 
+<a href="https://www.linkedin.com/in/charles-wilmot-ii/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://chazwilmot.github.io"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+<a href="mailto:chazwilmot@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+ 
+*I build at the intersection of AI/ML, systems engineering, and space: models that hold up in the real world and architectures that scale.*
+ 
 </div>
 ---
- 
+
 ### Focus areas
 - AI/ML for space systems
 - Systems engineering and MBSE
