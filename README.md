@@ -63,12 +63,11 @@ D.Eng. Student, Systems Engineering · George Washington University
  
 ---
  
-### Elsewhere
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-wilmot-ii/) · [Portfolio](https://chazwilmot.github.io) · chazwilmot@gmail.com
+<div align="center">
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
  
-<sub>Interests: volleyball · golf · fishing · rocketry · real estate</sub>
-
+<sub>Interests: volleyball · golf · fishing · rocketry · real estate</sub><br>
 <sub>Views and projects here are my own and do not represent the U.S. Space Force or the Department of Defense.</sub>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ 
+</div>
+ 
