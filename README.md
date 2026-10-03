@@ -1,3 +1,46 @@
+Charles Wilmot II<br>
+
+# Charles Wilmot II
+ 
+**AI Lead Engineer @ U.S. Space Force, Space Systems Command · D.Eng. student, Systems Engineering (GWU)**
+ 
+I build at the intersection of **AI/ML, systems engineering, and space**: models that hold up in the real world and architectures that scale.
+ 
+---
+ 
+### Focus areas
+- AI/ML for space systems
+- Systems engineering and MBSE
+- Autonomy and robotics
+
+### Selected projects
+| Project | What it does | Stack |
+|---|---|---|
+| [Autonomous Obstacle Avoidance](#) | TurtleBot with LiDAR navigates to a target while avoiding obstacles | ROS2 · Python · LiDAR |
+| [Multi-Agent Hazard Detection](#) | Quadrotor and ground robot team up to detect and avoid ground hazards | ROS2 · Python · YOLOv8 |
+| [Rocket Sync](#) | Model-rocket sensor suite with iOS telemetry and remote launch | C/C++ · Swift · Electronics |
+| [Song Recommender](#) | Graph-based recommender with fuzzy search | Neo4j · PostgreSQL · Python |
+| [Model Selection Optimization](#) | Model selection for low-variability, imbalanced datasets | Python · scikit-learn |
+ 
+### Research
+- **ML for magnetometer calibration**, MAGIC instrument (NASA TRACER mission), University of Iowa
+- **Publication:** Clinical and radiological septic joint analysis of spontaneous sternoclavicular joint infections: a systems engineering approach
+- **D.Eng. research (GWU):** in progress
+### Tech
+**Core:** Python · C++ · Java · SQL
+**ML/Data:** scikit-learn · TensorFlow · pandas · NumPy
+**Robotics/Embedded:** ROS2 · C · Arduino · Raspberry Pi
+**Tools:** Git · Linux · MATLAB
+ 
+### Education
+D.Eng. Systems Engineering, George Washington University (in progress) · Sc.M. Technology Leadership, Brown · M.Eng. Systems Engineering, UVA · B.S.E. Computer Science & Engineering, Iowa
+ 
+### Elsewhere
+[LinkedIn](https://www.linkedin.com/in/charles-wilmot-ii/) · [Portfolio](https://chazwilmot.github.io) · chazwilmot@gmail.com
+ 
+<sub>Interests: volleyball · golf · fishing · rocketry · real estate</sub>
+<sub>Views and projects here are my own and do not represent the U.S. Space Force or the Department of Defense.</sub>
+
 # 💫 About Me:
 👋 Hi, I’m Charles Wilmot<br>🛰️ I’m interested in Machine Learning, AI, and Space<br>🌱 I’m currently studying computer science and engineering @ the University of Iowa<br>👀 I’m looking to collaborate on Machine Learning and AI projects<br>👨‍💻 I'm proficient in Java, C++, and Python<br>📫 How to reach me chazwilmot@gmail.com<br>
 
