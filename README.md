@@ -64,7 +64,6 @@ D.Eng. Student, Systems Engineering · George Washington University
 ---
  
 <div align="center">
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
  
 <sub>Interests: volleyball · golf · fishing · rocketry · real estate</sub><br>
 <sub>Views and projects here are my own and do not represent the U.S. Space Force or the Department of Defense.</sub>
