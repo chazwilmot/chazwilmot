@@ -62,6 +62,16 @@ D.Eng. Student, Systems Engineering · George Washington University
 | B.S.E., Computer Science & Engineering | University of Iowa |
  
 ---
+
+### 🎓 Education
+| | School | Degree |
+|:-:|:--|:--|
+| <img src="https://chazwilmot.github.io/assets/images/education/gwu-logo.png" height="32" alt="GWU"> | ![GWU](https://img.shields.io/badge/GWU-George_Washington_University-033C5A?style=for-the-badge&labelColor=AA9868) | D.Eng., Systems Engineering *(in progress)* |
+| <img src="https://chazwilmot.github.io/assets/images/education/brown-logo.png" height="32" alt="Brown"> | ![Brown](https://img.shields.io/badge/Brown-Brown_University-ED1C24?style=for-the-badge&labelColor=4E3629) | Sc.M., Technology Leadership |
+| <img src="https://chazwilmot.github.io/assets/images/education/uva-logo.png" height="32" alt="UVA"> | ![UVA](https://img.shields.io/badge/UVA-University_of_Virginia-232D4B?style=for-the-badge&labelColor=E57200) | M.Eng., Systems Engineering |
+| <img src="https://chazwilmot.github.io/assets/images/education/iowa-logo.png" height="32" alt="Iowa"> | ![Iowa](https://img.shields.io/badge/Iowa-University_of_Iowa-FFCD00?style=for-the-badge&labelColor=000000) | B.S.E., Computer Science & Engineering |
+
+---
  
 <div align="center">
  
