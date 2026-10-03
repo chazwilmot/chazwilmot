@@ -53,11 +53,15 @@ D.Eng. Student, Systems Engineering · George Washington University
  
 ---
  
-### Education
-D.Eng. Systems Engineering, George Washington University (in progress) <br>
-Sc.M. Technology Leadership, Brown <br>
-M.Eng. Systems Engineering, UVA <br>
-B.S.E. Computer Science & Engineering, Iowa <br>
+### 🎓 Education
+| Degree | School |
+|:--|:--|
+| D.Eng., Systems Engineering *(in progress)* | George Washington University |
+| Sc.M., Technology Leadership | Brown University |
+| M.Eng., Systems Engineering | University of Virginia |
+| B.S.E., Computer Science & Engineering | University of Iowa |
+ 
+---
  
 ### Elsewhere
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-wilmot-ii/) · [Portfolio](https://chazwilmot.github.io) · chazwilmot@gmail.com
