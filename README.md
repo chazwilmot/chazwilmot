@@ -34,7 +34,7 @@ I build at the intersection of **AI/ML, systems engineering, and space**: models
 
 **Robotics/Embedded:** ![ROS2](https://img.shields.io/badge/ROS2-navy?style=for-the-badge) ![C](https://img.shields.io/badge/C-%2300f.svg?style=for-the-badge&logo=C&logoColor=white) <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> ![Raspberry PI](https://img.shields.io/badge/RaspberryPI-darkred?style=for-the-badge)
 
-**Tools:** Git · Linux · ![MATLAB](https://img.shields.io/badge/-MATLAB-F7931E?style=for-the-badge)
+**Tools:** ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/-MATLAB-F7931E?style=for-the-badge)
  
 ### Education
 D.Eng. Systems Engineering, George Washington University (in progress) <br>
