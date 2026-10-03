@@ -12,12 +12,17 @@ D.Eng. Student, Systems Engineering · George Washington University
 *I build at the intersection of AI/ML, systems engineering, and space: models that hold up in the real world and architectures that scale.*
  
 </div>
+
 ---
 
-### Focus areas
-- AI/ML for space systems
-- Systems engineering and MBSE
-- Autonomy and robotics
+### 🛰️ Focus areas
+- **AI/ML for space systems**
+- **Systems engineering & MBSE**
+- **Autonomy & robotics**
+
+**Now:** D.Eng. research at GWU · leveling up in ML engineering and MBSE (SysML v2)
+
+---
 
 ### Selected projects
 | Project | What it does | Stack |
