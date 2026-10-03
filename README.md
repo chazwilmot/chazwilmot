@@ -30,11 +30,11 @@ I build at the intersection of **AI/ML, systems engineering, and space**: models
 **Core:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**ML/Data:** scikit-learn · TensorFlow · pandas · NumPy
+**ML/Data:** <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"> 
 
-**Robotics/Embedded:** ROS2 · C · Arduino · Raspberry Pi
+**Robotics/Embedded:** ROS2 · ![C](https://img.shields.io/badge/C-%2300f.svg?style=for-the-badge&logo=C&logoColor=white) <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> · Raspberry Pi
 
-**Tools:** Git · Linux · MATLAB
+**Tools:** Git · Linux · ![MATLAB](https://img.shields.io/badge/-MATLAB-F7931E?style=for-the-badge)
  
 ### Education
 D.Eng. Systems Engineering, George Washington University (in progress) <br>
