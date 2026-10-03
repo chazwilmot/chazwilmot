@@ -23,15 +23,17 @@ D.Eng. Student, Systems Engineering · George Washington University
 **Now:** D.Eng. research at GWU · leveling up in ML engineering and MBSE (SysML v2)
 
 ---
-
-### Selected projects
+ 
+### 🚀 Selected projects
 | Project | What it does | Stack |
-|---|---|---|
-| [Autonomous Obstacle Avoidance](#) | TurtleBot with LiDAR navigates to a target while avoiding obstacles | ROS2 · Python · LiDAR |
-| [Multi-Agent Hazard Detection](#) | Quadrotor and ground robot team up to detect and avoid ground hazards | ROS2 · Python · YOLOv8 |
-| [Rocket Sync](#) | Model-rocket sensor suite with iOS telemetry and remote launch | C/C++ · Swift · Electronics |
-| [Song Recommender](#) | Graph-based recommender with fuzzy search | Neo4j · PostgreSQL · Python |
-| [Model Selection Optimization](#) | Model selection for low-variability, imbalanced datasets | Python · scikit-learn |
+|:--|:--|:--|
+| **Autonomous Obstacle Avoidance** <!-- link: https://github.com/chazwilmot/REPO --> | TurtleBot with LiDAR navigates to a target while avoiding obstacles | ROS2 · Python · LiDAR |
+| **Multi-Agent Hazard Detection** <!-- link: https://github.com/chazwilmot/REPO --> | Quadrotor and ground robot team up to detect and avoid ground hazards | ROS2 · Python · YOLOv8 |
+| **Rocket Sync** <!-- link: https://github.com/chazwilmot/REPO --> | Model-rocket sensor suite with iOS telemetry and remote launch | C/C++ · Swift · Electronics |
+| **Song Recommender** <!-- link: https://github.com/chazwilmot/REPO --> | Graph-based recommender with fuzzy search | Neo4j · PostgreSQL · Python |
+| **Model Selection Optimization** <!-- link: https://github.com/chazwilmot/REPO --> | Model selection for low-variability, imbalanced datasets | Python · scikit-learn |
+ 
+---
  
 ### Research
 - **ML for magnetometer calibration**, MAGIC instrument (NASA TRACER mission), University of Iowa
