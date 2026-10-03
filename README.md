@@ -65,7 +65,8 @@ D.Eng. Student, Systems Engineering · George Washington University
  
 <div align="center">
  
-<sub>Interests: volleyball · golf · fishing · rocketry · real estate</sub><br>
+### Interests: volleyball · golf · fishing · rocketry · real estate</sub><br><br>
+
 <sub>Views and projects here are my own and do not represent the U.S. Space Force or the Department of Defense.</sub>
  
 </div>
