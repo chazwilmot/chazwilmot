@@ -43,7 +43,7 @@ M.Eng. Systems Engineering, UVA <br>
 B.S.E. Computer Science & Engineering, Iowa <br>
  
 ### Elsewhere
-[LinkedIn](https://www.linkedin.com/in/charles-wilmot-ii/) · [Portfolio](https://chazwilmot.github.io) · chazwilmot@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-wilmot-ii/) · [Portfolio](https://chazwilmot.github.io) · chazwilmot@gmail.com
  
 <sub>Interests: volleyball · golf · fishing · rocketry · real estate</sub>
 
