@@ -52,16 +52,6 @@ D.Eng. Student, Systems Engineering · George Washington University
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge) |
  
 ---
- 
-### 🎓 Education
-| Degree | School |
-|:--|:--|
-| D.Eng., Systems Engineering *(in progress)* | George Washington University |
-| Sc.M., Technology Leadership | Brown University |
-| M.Eng., Systems Engineering | University of Virginia |
-| B.S.E., Computer Science & Engineering | University of Iowa |
- 
----
 
 ### 🎓 Education
 | | School | Degree |
