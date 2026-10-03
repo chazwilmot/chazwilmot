@@ -27,22 +27,24 @@ I build at the intersection of **AI/ML, systems engineering, and space**: models
 - **Publication:** Clinical and radiological septic joint analysis of spontaneous sternoclavicular joint infections: a systems engineering approach
 - **D.Eng. research (GWU):** in progress
 ### Tech
-**Core:** Python · C++ · Java · SQL
+**Core:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> · Java <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
 **ML/Data:** scikit-learn · TensorFlow · pandas · NumPy
 **Robotics/Embedded:** ROS2 · C · Arduino · Raspberry Pi
 **Tools:** Git · Linux · MATLAB
  
 ### Education
-D.Eng. Systems Engineering, George Washington University (in progress) · Sc.M. Technology Leadership, Brown · M.Eng. Systems Engineering, UVA · B.S.E. Computer Science & Engineering, Iowa
+D.Eng. Systems Engineering, George Washington University (in progress)
+Sc.M. Technology Leadership, Brown
+M.Eng. Systems Engineering, UVA
+B.S.E. Computer Science & Engineering, Iowa
  
 ### Elsewhere
 [LinkedIn](https://www.linkedin.com/in/charles-wilmot-ii/) · [Portfolio](https://chazwilmot.github.io) · chazwilmot@gmail.com
  
 <sub>Interests: volleyball · golf · fishing · rocketry · real estate</sub>
-<sub>Views and projects here are my own and do not represent the U.S. Space Force or the Department of Defense.</sub>
 
-# 💫 About Me:
-👋 Hi, I’m Charles Wilmot<br>🛰️ I’m interested in Machine Learning, AI, and Space<br>🌱 I’m currently studying computer science and engineering @ the University of Iowa<br>👀 I’m looking to collaborate on Machine Learning and AI projects<br>👨‍💻 I'm proficient in Java, C++, and Python<br>📫 How to reach me chazwilmot@gmail.com<br>
+<sub>Views and projects here are my own and do not represent the U.S. Space Force or the Department of Defense.</sub>
 
 # 💻 Tech Stack:
 
@@ -87,12 +89,6 @@ D.Eng. Systems Engineering, George Washington University (in progress) · Sc.M. 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"> 
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"> 
-
-## A few Interests and Hobies
-* Volleyball
-* Real Estate
-* Space
-* Fishing
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
