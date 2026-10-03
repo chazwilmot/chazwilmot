@@ -35,10 +35,13 @@ D.Eng. Student, Systems Engineering · George Washington University
  
 ---
  
-### Research
-- **ML for magnetometer calibration**, MAGIC instrument (NASA TRACER mission), University of Iowa
-- **Publication:** Clinical and radiological septic joint analysis of spontaneous sternoclavicular joint infections: a systems engineering approach
+### 🔬 Research
+- **ML for magnetometer calibration:** MAGIC instrument, NASA TRACER mission (University of Iowa)
+- **Publication:** *Clinical and radiological septic joint analysis of spontaneous sternoclavicular joint infections: achieving the best outcomes, a systems engineering approach*
 - **D.Eng. research (GWU):** in progress
+
+---
+
 ### Tech
 **Core:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
